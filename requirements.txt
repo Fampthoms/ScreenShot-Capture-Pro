@@ -1,0 +1,7 @@
+PySide6
+pynput
+Pillow
+keyboard
+pywin32
+
+# Requirements.txt
