@@ -84,7 +84,6 @@ Es una aplicación **profesional y ligera** para Windows que te permite capturar
 - **Espacio**: ~50 MB
 
 ### Opción 1: Ejecutable (Recomendado para usuarios finales)
-*Próximamente disponible por $10 USD (licencia hasta 2033)*
 
 Contáctame a: **famp.25333@gmail.com**
 
